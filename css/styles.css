@@ -1,0 +1,85 @@
+.tv-show{
+
+    width: 250px;
+    height: 150px;
+   
+}
+
+body{
+
+    background-color:black;
+}
+
+h1{
+
+color: green;
+
+}
+
+h3{
+color: green;
+  
+
+}
+
+h4{
+    color:white;
+    margin: 30px;
+}
+
+.movies-shows{
+        
+    margin: 10px 20px 10px 20px;
+    text-align: center;
+}
+.pricing-column{
+
+    padding: 3% 2%;
+    
+    }
+
+    #pricing{
+
+        padding: 100px;
+        text-align: center;
+        
+        }
+
+        #footer{
+
+    
+            text-align: center;
+            padding: 7% 15%;
+        }
+        
+        .social-icon{
+
+            margin: 20px 10px;
+        }
+        
+        .navbar-brand{
+
+            color: green;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifss;
+        }
+
+        .navbar{
+
+            padding: 20px 50px 20px 20px;
+        }
+
+
+
+        h4{
+
+            text-align: initial;
+        }
+@media (max-width:1028px) {
+    h4{
+        text-align: initial;
+        margin: 30px;
+    }
+    
+}
+       
+        
